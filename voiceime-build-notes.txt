@@ -1,0 +1,1 @@
+VoiceIME isolated build branch. APK build requires Android SDK 35 and Gradle 8.11.1.
